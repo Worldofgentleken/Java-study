@@ -2,6 +2,7 @@ package bookmaking;
 
 public class Book {
     private String author;
+    private String bookName;
 
     public Book() {}
     public Book(String bookName, String author) {
